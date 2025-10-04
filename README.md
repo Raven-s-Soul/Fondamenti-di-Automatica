@@ -17,6 +17,7 @@
 >- Analisi 1
 >- Geometria 1 / Algebra lineare
 >- Fisica 1
+>- Fondamenti di Telecomunicazioni
 >- Eletronica ed Eletrotecnica
 
 ***
