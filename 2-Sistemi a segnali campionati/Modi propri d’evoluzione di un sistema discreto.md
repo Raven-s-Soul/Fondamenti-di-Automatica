@@ -31,7 +31,7 @@ I modi propri variano in funzione della natura dei poli di $G(z)$.
 Se $G(z)$ ha un polo reale semplice $b$ (ad esempio derivante dalla discretizzazione di un polo continuo $-a$, con $b = e^{-a T_c}$):
 
 - L'evoluzione temporale del modo proprio è una **successione geometrica**:
-  $$
+  $$\\
   y(k) = b^k c
   $$
 - La successione **converge** solo se $|b| < 1$.
@@ -44,8 +44,7 @@ Se $G(z)$ ha una coppia di poli complessi coniugati (derivanti da poli $\sigma \
 
 - L'evoluzione del modo proprio è **oscillatoria o pseudo-periodica**.
 - La successione soddisfa l'equazione alle differenze:
-  $$
-  y(k) = 2b \cos(\omega T_c) \, y(k-1) - b^2 \, y(k-2)
-  $$
+  
+$$y(k) = 2b \cos(\omega T_c),  y(k-1) - b^2, y(k-2)$$
   dove $b = e^{\sigma T_c}$.
 - La successione **converge** solo se $|b| < 1$ (ovvero se $\sigma < 0$).
