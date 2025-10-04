@@ -26,7 +26,7 @@ $$
 
 <aside>
 
-> Più avanti scriveremo $G(j\omega)$ in coordinate polari $|G(j\omega)|e^{j\phase G(j\omega)}$.
+> Più avanti scriveremo $G(j\omega)$ in coordinate polari $|G(j\omega)|e^{j ∠^{ G(j\omega)}}$.
 
 </aside>
 
@@ -37,14 +37,14 @@ $$
 $$
 
 $$
-y_p(t)=\frac{|G(j\omega)|e^{j\phase G(j\omega)}}{2j}e^{j\omega t}-\frac{|G(j\omega)|e^{-j\phase G(j\omega)}}{2j}e^{-j\omega t}
+y_p(t)=\frac{|G(j\omega)|e^{j∠^{ G(j\omega)}}}{2j}e^{j\omega t}-\frac{|G(j\omega)|e^{-j ∠^{ G(j\omega)}}}{2j}e^{-j\omega t}
 $$
 
 Ma riconosco che c’è di mezzo un seno, quindi mi diventa:
 
 $$
 \begin{gather}
-y_p(t)=|G(j\omega)|\sin(\omega t+\phase G(j\omega)) \\\
+y_p(t)=|G(j\omega)|\sin(\omega t+∠^{ G(j\omega)}) \\\
 y_p(t)=|\text{Amplificazione}|\sin(\omega t+ \text{Sfasamento})
 \end{gather}
 $$
@@ -57,3 +57,5 @@ Ora è molto leggibile e si notano le somiglianze tra $y(t)$ e $u(t)$. Entrambi 
     - Si tratta di uno speciale piano di Gauss che traccia modulo e fase della funzione di trasferimento
 - Nichols
     - Modulo e fase in un singolo grafico
+***
+$\phase\theta$ do not render right so i use instead $∠^\theta$
