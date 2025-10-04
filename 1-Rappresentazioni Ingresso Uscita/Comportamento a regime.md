@@ -1,5 +1,5 @@
 # Comportamento a regime
-1. Stabilità, variare del KC, funzione di trasferimento a ciclo chiuso.
+Stabilità, variare del KC, funzione di trasferimento a ciclo chiuso.
 
 $$
 \begin{gather}
@@ -28,7 +28,7 @@ $$
 \lim_{s \to 0} s \frac k {s+2+k} \frac 1 s = \frac k {2+k}
 $$
 
-
+***
 ### Sistema di controllo
 ![Sistema di controllo](./img/SistemaControllo.svg)
 
@@ -67,7 +67,7 @@ $h$ definisce il tipo di sistema di controllo
 | 0   | $\frac{K_d^2}{K_d+K_g}$   | $\infty$  | $\infty$   |
 | 1   | 0   | $\frac{K_d^2}{K_g}$   | $\infty$  |
 | 2   | 0   | 0   | $\frac{K_d^2}{K_g}$   |
-
+***
 ### Errori
 
 $$
@@ -103,7 +103,7 @@ G(s) = C(s)P(s)
 \\
 C(s)= \frac {K_c}{s^l}
 $$
-
+***
 ### Disturbi
 
 - disturbo dello stato, quando entra in catena diretta
