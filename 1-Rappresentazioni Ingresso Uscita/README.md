@@ -11,8 +11,23 @@
 - [Luogo delle radici](./Luogo%20delle%20radici.md)
 - [Comportamento a regime](./Comportamento%20a%20regime.md)
 - [Reiezione di disturbi polinomiali](./Reiezione%20di%20disturbi%20polinomiali.md)
-
-
+- [Risposta armonica e sue rappresentazioni grafiche (Nyquist, Bode)](./Risposta%20armonica%20e%20sue%20rappresentazioni%20grafiche%20(Nyquist%2C%20Bode).md)
+- [Diagramma di bode](./Diagramma%20di%20bode.md)
+- [Sistemi a fase non minima]()
+- [Sistemi con ritardo finito]()
+- [Teorema dell’indicatore logaritmico (Conta poli / zeri)]()
+- [Criterio di stabilità di Nyquist]()
+- [Margini di stabilità (guadagno e fase)]()
+- [Funzione di sensibilità ed applicazione ai sistemi a controreazione]()
+- [Specifiche ad anello chiuso ed aperto per un sistema di controllo]()
+- [Controllori ad alto guadagno]()
+- [Carta di Nichols]()
+- [Il regolatore standard PID]()
+- [Proprietà linearizzante della controreazione]()
+- [Errore di riproduzione di una sinusoide e specifiche in frequenza]()
+- [Reiezione di disturbi sinusoidali e specifiche in frequenza]()
+- [Principio del modello interno]()
+- [Stabilità dei sistemi non lineari e linearizzazione intorno a un punto di equilibrio]()
 
 
 
