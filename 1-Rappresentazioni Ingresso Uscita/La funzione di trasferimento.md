@@ -6,7 +6,7 @@
 >$$
 >
 >$$
->L \space \{ \text {Risposta inpulsiva}\} = \text{ Funzione di trasferimento}
+>L \space \lbrace \text {Risposta inpulsiva}\rbrace = \text{ Funzione di trasferimento}
 >$$
 >
 >$$
