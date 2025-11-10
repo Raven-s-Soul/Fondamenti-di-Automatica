@@ -49,3 +49,7 @@ Oltre alla trasformazione esatta $z = e^{s T_c}$ (spesso utilizzata in combinazi
     ![Tustin](img/CampionamentoTustinFDA.svg)
 
 In sintesi, mentre la relazione fondamentale $z = e^{s T_c}$ definisce la corrispondenza esatta di poli e zeri (in termini di modi propri) tra i due domini, le trasformazioni approssimate offrono metodi pratici per convertire la funzione di trasferimento continua in una discreta.
+
+***
+
+Sul libro di testo ci sono anche altre cose non presenti qui, relativamente utili, tra cui grafici utili per capire questa domanda.
