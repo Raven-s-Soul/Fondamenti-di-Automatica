@@ -1,4 +1,4 @@
-# Fondamenti-di-Automatica
+# Fondamenti di Automatica
 
 >[!TIP]
 > ## Macro argomenti del corso
@@ -36,5 +36,4 @@
 ### Fonti
 - Il libro del corso "Fondamenti di Automatica"
 - Notion degli studenti di Roma3
-- Gli appunti di Alex-bonini
 - Gli appunti di Colleghi (Che non verranno nominati per evitare possibili cause o disagi)
