@@ -13,12 +13,12 @@ I componenti principali lungo l'anello di controllo sono:
 1. **Processo e Attuatore (Analogici)**  
    Il sistema da controllare e l'attuatore ricevono e producono segnali analogici.
 
-2. **Convertitore Analogico/Digitale (A/D)**  
+2. **Convertitore Analogico/Digitale (ADC - Analog to Digital Converter)**  
    Accetta il segnale analogico in uscita dal processo (spesso dopo un filtro anti-aliasing) e lo trasforma in un segnale digitale tramite **campionamento** (conversione da tempo continuo a tempo discreto).
 
 3. **Controllore Digitale ($\mu P$ / $\mu C$)**  
    Esegue l'algoritmo di controllo sulla base del segnale campionato e del riferimento, generando un comando di controllo in formato digitale.
 
-4. **Convertitore Digitale/Analogico (D/A)**  
+4. **Convertitore Digitale/Analogico (DAC - Digital to Analog Converter)**  
    Accetta il segnale digitale e lo converte in un segnale analogico (operazione di **ricostruzione** o **tenuta**) per pilotare l'attuatore.  
    Spesso include un **Organo di Tenuta di Ordine Zero (ZOH)**.
