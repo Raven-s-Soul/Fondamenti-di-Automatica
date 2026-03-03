@@ -30,7 +30,9 @@
 
 >[!IMPORTANT]
 >Questa repository ha il solo fine di essere un punto di ritrovo per argomenti studiati durante il corso di FDA, e non per fini di lucro.
->- MIT License, per cui non mostrerò né copierò contenuti direttamente protetti, come del libro del corso.
+>- Copyright: Tutti i diritti riservati.
+>- Limitazioni: Non è concessa alcuna licenza per il riutilizzo commerciale o la ridistribuzione non autorizzata.
+>- Per i dettagli legali completi, consultare il file LICENSE del repository.
 
 ***
 ### Fonti
